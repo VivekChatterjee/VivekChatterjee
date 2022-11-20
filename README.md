@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/04b3af1734c378d7eb20690ca6ce758b5a3fff95abcce7958d3fac32030bbe29/68747470733a2f2f692e6962622e636f2f424c357363475a2f302d3062707933352d4c6336722d41647669762d4c2e676966)]()
 <h1 align="center">Hi 👋, I'm Vivek Chatterjee </h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate LeetCoder, Problem Solver, FrontEnd Developer from India. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchatterjee" /> </p>
