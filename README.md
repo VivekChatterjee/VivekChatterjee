@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchatterjee" /> </p>
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning **Django, Python, React**
 
-- 💬 Ask me about **C++, DSA Stuffs, Movies**
+- 💬 Ask me about **C++, React, DSA Stuffs, Movies**
 
 - 📫 How to reach me **vivekchatterjeejsr@gmail.com**
 
