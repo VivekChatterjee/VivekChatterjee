@@ -6,14 +6,14 @@
 </p>
 <!-- End of meet text -->
 
-<h3 align="center">A LeetCoder, Problem Solver, FrontEnd Developer from India. </h3>
+<h3 align="center">A Problem Solver, Full Stack Web Developer from India. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchatterjee" /> </p>
 
 - 🌱 I’m currently learning **Django, Python, React**
 
-- 💬 Ask me about **C++, React, DSA Stuffs, Movies**
+- 💬 Ask me about **C++, React, DSA Stuffs, Movies, Chess**
 
 - 📫 How to reach me **vivekchatterjeejsr@gmail.com**
 
